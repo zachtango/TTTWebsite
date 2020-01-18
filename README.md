@@ -1,3 +1,3 @@
-# TTTWebsite
+# Tic Tac Toe Website
 Play Tic Tac Toe on this website
 - THE ACTUAL GAME IS STILL IN PROGRESS, THE WEBSITE LAYOUT IS FINISHED
